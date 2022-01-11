@@ -22,7 +22,7 @@ Here, I will include a few UML diagrams to better understand or communicate what
 ![use case diagram](docs/umls/UseCaseDiagram.jpg)
 
 #### Class Diagram
-![class diagram](docs/umls/classDiagram.jpg)
+![class diagram](docs/umls/ClassDiagram.jpg)
 
 ### Technologies and Concepts used
 Here, I will list the technologies and concepts leveraged in order to realise this application.
