@@ -41,6 +41,7 @@ Here, I will list the technologies and concepts leveraged in order to realise th
 - [Flake8](https://flake8.pycqa.org/en/latest/) for style guide enforcement.
 - [pdb](https://docs.python.org/3/library/pdb.html)/[ipdb](https://pypi.org/project/ipdb/)/[django-debuger-tool](https://django-debug-toolbar.readthedocs.io/en/latest/) for debugging
 - [VScode](https://code.visualstudio.com) for editing
+- [Postgres](https://www.postgresql.org) for database
 
 #### Concepts
 - [Twelve-Factor-Application](https://12factor.net) for design
