@@ -44,6 +44,7 @@ DEFAULT_APPS = [
 
 CREATED_APPS = [
     'dwitter.apps.DwitterConfig',
+    'solos.apps.SolosConfig',
 ]
 
 THIRD_PARTY_APPS = [ 
