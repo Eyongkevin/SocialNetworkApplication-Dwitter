@@ -43,7 +43,7 @@ DEFAULT_APPS = [
 ]
 
 CREATED_APPS = [
-    'dwitter.apps.DwitterConfig',
+    'config.apps.dwitter.apps.DwitterConfig',
 ]
 
 THIRD_PARTY_APPS = [ 

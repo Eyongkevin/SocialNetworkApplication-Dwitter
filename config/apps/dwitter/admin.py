@@ -1,7 +1,7 @@
 from django.contrib.auth.models import Group, User
 from django.contrib import admin
 
-from dwitter import models
+from config.apps.dwitter import models
 
 class ProfileInLine(admin.StackedInline):
     model = models.Profile
